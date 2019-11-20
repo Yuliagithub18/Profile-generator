@@ -1,0 +1,25 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuliagithub18/Profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuliagithub18/Profile-generator/issues"
+  },
+  "homepage": "https://github.com/Yuliagithub18/Profile-generator#readme",
+  "dependencies": {
+    "convertapi": "^1.2.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "path": "^0.12.7"
+  }
+}
